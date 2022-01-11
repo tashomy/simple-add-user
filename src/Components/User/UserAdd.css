@@ -1,0 +1,12 @@
+.form-control {
+  padding: 10px !important;
+}
+
+.form-control > * {
+  margin: 5px 10px !important;
+}
+
+.form-control input {
+  height: 2rem;
+  width: 60%;
+}
